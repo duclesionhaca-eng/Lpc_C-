@@ -1,0 +1,14 @@
+D:\DUCLA\Escola\2026\LPC\Teoria\bin\Debug\net10.0\Teoria.exe
+D:\DUCLA\Escola\2026\LPC\Teoria\bin\Debug\net10.0\Teoria.deps.json
+D:\DUCLA\Escola\2026\LPC\Teoria\bin\Debug\net10.0\Teoria.runtimeconfig.json
+D:\DUCLA\Escola\2026\LPC\Teoria\bin\Debug\net10.0\Teoria.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\bin\Debug\net10.0\Teoria.pdb
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.GeneratedMSBuildEditorConfig.editorconfig
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.AssemblyInfoInputs.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.AssemblyInfo.cs
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.csproj.CoreCompileInputs.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\refint\Teoria.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.pdb
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\Teoria.genruntimeconfig.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\obj\Debug\net10.0\ref\Teoria.dll
