@@ -1,0 +1,14 @@
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\bin\Debug\net10.0\numero_4.exe
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\bin\Debug\net10.0\numero_4.deps.json
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\bin\Debug\net10.0\numero_4.runtimeconfig.json
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\bin\Debug\net10.0\numero_4.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\bin\Debug\net10.0\numero_4.pdb
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.AssemblyInfoInputs.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.AssemblyInfo.cs
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.csproj.CoreCompileInputs.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\refint\numero_4.dll
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.pdb
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\numero_4.genruntimeconfig.cache
+D:\DUCLA\Escola\2026\LPC\Teoria\numero_4\obj\Debug\net10.0\ref\numero_4.dll
